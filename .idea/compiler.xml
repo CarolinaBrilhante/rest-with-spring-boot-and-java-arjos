@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="rest-with-spring-boot-and-java-arjos" target="17" />
+      <module name="rest-with-spring-boot-and-java-arjos" target="19" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
